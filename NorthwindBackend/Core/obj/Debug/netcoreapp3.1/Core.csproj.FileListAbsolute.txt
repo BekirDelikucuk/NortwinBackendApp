@@ -1,0 +1,13 @@
+C:\Users\Hp\source\repos\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Hp\source\repos\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Hp\source\repos\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Hp\source\repos\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Hp\source\repos\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Hp\source\repos\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Hp\source\repos\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.json
+C:\Users\Hp\source\repos\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.genruntimeconfig.cache
